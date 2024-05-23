@@ -33,11 +33,10 @@ Vidnoz
 Foi solicitado ao Chat GPT 4 que crie um texto em portugues de 1 minuto de leitura falando sobre inteligência artificial, cite algumas ferramentas, aplique tecnicas de PNL na criação do texto, deixe atratativo e interessante a sua abordagem. Depois o texto criado foi inserido na ferramenta Vidnoz Ai e foi solicitado a criação do vídeo após realizar algumas configurações de voz na ferramenta
 
 ## 🚀 Resultados
-Na execução a IA do Vidnoz criou um vídeo de 1 minuto e 23 segundos
+Na execução a IA do Vidnoz criou um vídeo de 1 minuto e 07 segundos
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+Hoje não precisamos utilizar diversas ferramentas para criar videos e conteúdos na internet, com a evolução da IA tem ficado cada vez mais fácil criar conteúdos com precisão e qualidade. Embora a criação de conteúdos seja expressa, a criatividade no processo de criação e composição textual fica de lado, sendo substituida por prompts, utilizando tais ferramentas, cabe a nós apenas melhorarmos a qualidade do que foi gerado.
 
 ### Exemplos e Insigths
 
